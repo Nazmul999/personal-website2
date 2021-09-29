@@ -92,3 +92,26 @@ section h2{
 .blog img{
     width: 100%;
 }
+.work-area{
+padding: 15%;
+ align-items: center;
+}
+.work-area img{
+    width: 906px;
+    height: 225px;
+    position: absolute;
+}
+.work-half-width h3{
+    font-family: 'Bebas Neue', sans-serif;
+    color: white; 
+    font-size:64px
+}
+.work-inquiry{
+    position: relative;
+}
+.work-half-width{
+    width:40%;
+    padding: 2% 4%;
+    float: left;
+    text-align: center;
+}
